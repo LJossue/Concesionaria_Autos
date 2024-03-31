@@ -1,0 +1,15 @@
+igu\IngresarAutomovil$2.class
+igu\IngresarAutomovil.class
+igu\Principal$1.class
+igu\Principal$2.class
+logica\Automovil_.class
+igu\IngresarAutomovil$1.class
+logica\Controladora.class
+igu\Principal.class
+logica\Automovil.class
+persistencia\exceptions\NonexistentEntityException.class
+persistencia\exceptions\PreexistingEntityException.class
+persistencia\AutomovilJpaController.class
+persistencia\ControladoraPersistencia.class
+persistencia\exceptions\IllegalOrphanException.class
+com\mycompany\automovil\Automovil.class
